@@ -250,9 +250,3 @@ LogInit: Object subsystem initialized
 [2018.10.18-06.20.45:527][264]LogOutputDevice:Error: ntdll.dll!0x000000007700385D
 [2018.10.18-06.20.45:527][264]LogOutputDevice:Error: 
 [2018.10.18-06.20.45:535][264]LogStats:                SubmitErrorReport -  0.000 s
-[2018.10.18-06.20.46:235][264]LogStats:                    SendNewReport -  0.700 s
-[2018.10.18-06.20.46:235][264]LogStats:             FDebug::EnsureFailed -  0.852 s
-[2018.10.18-06.21.51:211][335]SourceControl: Info fatal: e:/Epic Games/UE_4.15/Engine/Content/: 'e:/Epic Games/UE_4.15/Engine/Content/' is outside repository
-[2018.10.18-06.21.51:322][335]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../development/Unreal/MyProject/MyProject.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
-[2018.10.18-06.24.05:656][913]SourceControl: Info fatal: e:/Epic Games/UE_4.15/Engine/Content/: 'e:/Epic Games/UE_4.15/Engine/Content/' is outside repository
-[2018.10.18-06.24.05:759][913]LogPackageName:Error: Illegal call to DoesPackageExist: '../../../../../development/Unreal/MyProject/MyProject.uproject' is not a standard unreal filename or a long path name. Reason: Path should be no less than 4 characters long.
