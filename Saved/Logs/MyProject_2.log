@@ -333,3 +333,92 @@ LogInit: Object subsystem initialized
 [2018.10.19-14.28.52:372][371]LogSlate: Window '消息日志' being destroyed
 [2018.10.19-14.28.52:374][371]LogSlate: Window '消息日志' being destroyed
 [2018.10.19-14.29.11:640][918]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-14.29.45:179][707]SourceControl: fatal: F:/Epic Games/UE_4.20/Engine/Content: 'F:/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.10.19-14.29.45:282][707]EditorErrors: Warning: 没有要迁入的资源！
+[2018.10.19-14.29.49:563][194]LogHttp: Warning: 000001AA8AA71580: request failed, libcurl error: 7 (Couldn't connect to server)
+[2018.10.19-14.29.49:563][194]LogHttp: Warning: 000001AA8AA71580: libcurl info message cache 0 (  Trying 127.0.0.1...)
+[2018.10.19-14.29.49:563][194]LogHttp: Warning: 000001AA8AA71580: libcurl info message cache 1 (TCP_NODELAY set)
+[2018.10.19-14.29.49:563][194]LogHttp: Warning: 000001AA8AA71580: libcurl info message cache 2 (connect to 127.0.0.1 port 1080 failed: Connection refused)
+[2018.10.19-14.29.49:563][194]LogHttp: Warning: 000001AA8AA71580: libcurl info message cache 3 (Failed to connect to 127.0.0.1 port 1080: Connection refused)
+[2018.10.19-14.29.49:563][194]LogHttp: Warning: 000001AA8AA71580: libcurl info message cache 4 (Closing connection 0)
+[2018.10.19-14.29.54:388][763]SourceControl: fatal: F:/Epic Games/UE_4.20/Engine/Content: 'F:/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.10.19-14.29.54:470][763]EditorErrors: Warning: 没有要迁入的资源！
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: request failed, libcurl error: 35 (SSL connect error)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 0 (Hostname in DNS cache was stale, zapped)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 1 (  Trying 127.0.0.1...)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 2 (TCP_NODELAY set)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 3 (Connected to 127.0.0.1 (127.0.0.1) port 1080 (#1))
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 4 (allocate connect buffer!)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 5 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 6 (Proxy replied OK to CONNECT request)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 7 (CONNECT phase completed!)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 8 (ALPN, offering http/1.1)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 9 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 10 (TLSv1.2 (OUT), TLS header, Certificate Status (22):)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 11 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 12 (CONNECT phase completed!)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 13 (CONNECT phase completed!)
+[2018.10.19-14.31.55:024][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 14 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.10.19-14.31.55:025][598]LogHttp: Warning: 000001AA8AA6B240: libcurl info message cache 15 (Closing connection 1)
+[2018.10.19-14.34.23:760][597]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Wall3)
+[2018.10.19-14.34.25:423][696]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-14.34.27:055][863]SourceControl: fatal: F:/Epic Games/UE_4.20/Engine/Content: 'F:/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.10.19-14.34.27:164][863]EditorErrors: Warning: 没有要迁入的资源！
+[2018.10.19-14.34.28:672][ 20]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-14.34.31:206][309]LogSlate: Window '消息日志' being destroyed
+[2018.10.19-14.34.31:210][309]LogSlate: Window '消息日志' being destroyed
+[2018.10.19-14.34.33:284][470]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-14.43.06:980][537]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-14.43.15:948][ 99]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-14.43.24:434][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-14.43.34:217][549]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-14.44.09:847][755]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-14.44.57:580][596]MapCheck: New page: 地图检测
+[2018.10.19-14.44.57:607][596]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2018.10.19-14.44.57:644][596]MapCheck: New page: SideScrollerExampleMap - 2018年10月20日 上午6:44:57
+[2018.10.19-14.44.57:734][596]MapCheck: 地图检测完成：0个错误，0 个警告，用时127.871毫秒完成。
+[2018.10.19-14.44.57:758][596]LogEditorBuildUtils: Build time 0:00
+[2018.10.19-14.45.30:019][489]LogSavePackage: Moving 'D:/development/MyProject/Saved/SideScrollerExampleMap_Auto18FFB639F4CA94A2F3C1BED8F5FB49ED5.tmp' to 'D:/development/MyProject/Saved/Autosaves/Game/SideScrollerBP/Maps/SideScrollerExampleMap_Auto1.umap'
+[2018.10.19-14.45.30:057][489]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/SideScrollerBP/Maps/SideScrollerExampleMap' took 0.698
+[2018.10.19-14.45.30:057][489]LogFileHelpers: Editor autosave (incl. sublevels) for all levels took 0.698
+[2018.10.19-14.47.31:968][854]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2018.10.19-14.47.40:727][657]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/AICharacter" FILE="D:/development/MyProject/Content/SideScrollerBP/Blueprints/AICharacter.uasset" SILENT=true
+[2018.10.19-14.47.40:754][657]LogSavePackage: Moving 'D:/development/MyProject/Saved/AICharacter83C8EEE84708419C97D8DD86A51A7539.tmp' to 'D:/development/MyProject/Content/SideScrollerBP/Blueprints/AICharacter.uasset'
+[2018.10.19-14.47.52:917][956]LogAssetEditorManager: Opening Asset editor for Blueprint /Game/SideScrollerBP/Blueprints/AICharacter.AICharacter
+[2018.10.19-14.47.54:299][956]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0022 seconds. Added 116 classes and 0 folders.
+[2018.10.19-14.47.56:005][956]LogSlate: Took 0.018947 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2018.10.19-14.47.56:548][958]LogSlate: Took 0.001480 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2018.10.19-14.48.52:244][371]BlueprintLog: New page: 编译AICharacter
+[2018.10.19-14.48.54:881][630]LogSlate: Window 'AICharacter*' being destroyed
+[2018.10.19-14.48.54:885][630]LogSlate: Window 'AICharacter*' being destroyed
+[2018.10.19-14.48.58:377][ 23]SourceControl: fatal: F:/Epic Games/UE_4.20/Engine/Content: 'F:/Epic Games/UE_4.20/Engine/Content' is outside repository
+[2018.10.19-14.49.00:098][ 23]LogSlate: Window '保存内容' being destroyed
+[2018.10.19-14.49.00:200][ 23]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/SideScrollerBP/Blueprints/AICharacter" FILE="D:/development/MyProject/Content/SideScrollerBP/Blueprints/AICharacter.uasset" SILENT=true
+[2018.10.19-14.49.00:219][ 23]LogSavePackage: Moving 'D:/development/MyProject/Saved/AICharacterD853B7454179B43CA86A359FA6AB0CEC.tmp' to 'D:/development/MyProject/Content/SideScrollerBP/Blueprints/AICharacter.uasset'
+[2018.10.19-14.49.02:812][ 23]LogSlate: Window '提交文件' being destroyed
+[2018.10.19-14.49.03:231][ 23]LogSourceControl: commit successful: [master 2db7fdd] 1
+[2018.10.19-14.49.03:286][ 23]SourceControl: [master 2db7fdd] 1
+[2018.10.19-14.49.03:286][ 23]SourceControl:  1 file changed, 0 insertions(+), 0 deletions(-)
+[2018.10.19-14.49.03:286][ 23]SourceControl:  create mode 100644 Content/SideScrollerBP/Blueprints/AICharacter.uasset
+[2018.10.19-14.49.03:291][ 23]SourceControl: 已提交 [master 2db7fdd] 1。
+[2018.10.19-14.50.04:584][601]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2018.10.19-14.50.17:302][115]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: request failed, libcurl error: 35 (SSL connect error)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 0 (Connection 15 seems to be dead!)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 1 (Closing connection 15)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 2 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 3 (  Trying 127.0.0.1...)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 4 (TCP_NODELAY set)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 5 (Connected to 127.0.0.1 (127.0.0.1) port 1080 (#16))
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 6 (allocate connect buffer!)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 7 (Establish HTTP proxy tunnel to datarouter.ol.epicgames.com:443)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 8 (Proxy replied OK to CONNECT request)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 9 (CONNECT phase completed!)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 10 (ALPN, offering http/1.1)
+[2018.10.19-15.04.53:582][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 11 (Cipher selection: ALL:!EXPORT:!EXPORT40:!EXPORT56:!aNULL:!LOW:!RC4:@STRENGTH)
+[2018.10.19-15.04.53:583][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 12 (SSL re-using session ID)
+[2018.10.19-15.04.53:583][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 13 (TLSv1.2 (OUT), TLS handshake, Client hello (1):)
+[2018.10.19-15.04.53:583][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 14 (CONNECT phase completed!)
+[2018.10.19-15.04.53:583][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 15 (CONNECT phase completed!)
+[2018.10.19-15.04.53:583][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 16 (OpenSSL SSL_connect: SSL_ERROR_SYSCALL in connection to datarouter.ol.epicgames.com:443 )
+[2018.10.19-15.04.53:583][934]LogHttp: Warning: 000001AA8AA6AFC0: libcurl info message cache 17 (Closing connection 16)
